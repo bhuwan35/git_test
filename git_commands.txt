@@ -1,1 +1,6 @@
 hello world, this is my first git commit.	
+
+git status
+git add * or git add . or git add the file name with file path
+git commit -m "commit message"
+git push
